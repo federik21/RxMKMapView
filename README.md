@@ -1,6 +1,8 @@
 RxMKMapView
 ===
 
+This version will fix a compatibility error with Xcode14, when using RXSwift 5.0.
+
 RxMKMapView is a [RxSwift](https://github.com/ReactiveX/RxSwift) wrapper for MKMapView (MapKit) `delegate` providing a Reactive Delegate Proxy as well as a bindable annotations interface to dynamically change the "data source" of your map.
 
 [![CircleCI](https://circleci.com/gh/RxSwiftCommunity/RxMKMapView.svg?style=svg)](https://circleci.com/gh/RxSwiftCommunity/RxMKMapView)
